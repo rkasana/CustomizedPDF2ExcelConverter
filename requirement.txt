@@ -1,6 +1,6 @@
-openpyxl
-pdfminer.six
-pdfplumber
 streamlit
+pdfplumber
+pandas
+openpyxl
 
 
